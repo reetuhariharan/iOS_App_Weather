@@ -1,0 +1,6 @@
+{
+  "name": "Nimbus Weather",
+  "description": "A comprehensive weather app with 5-day and hourly forecasts, severe weather alerts, radar maps, and customizable favorite locations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
