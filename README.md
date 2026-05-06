@@ -1,5 +1,4 @@
-Fair — clean looks better than fake visuals 👍
-Here’s your **top-level README without images but still premium-looking**:
+
 
 ---
 
