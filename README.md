@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Expo-ReactNative-000020?style=for-the-badge&logo=expo" />
   <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-Android-black?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/your-username/nimbus-weather?style=for-the-badge" />
 </p>
 
 <p align="center">
