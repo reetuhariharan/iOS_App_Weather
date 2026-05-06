@@ -58,6 +58,8 @@ User → Location / Search
      → Display UI
      → Store Preferences
 ```
+<img width="788" height="1600" alt="image" src="https://github.com/user-attachments/assets/15e329ff-f4d4-4a8e-972d-ea19f0ced196" />
+<img width="784" height="1600" alt="image" src="https://github.com/user-attachments/assets/6df1710c-802e-4efc-ba0b-f206bc2a9b0c" />
 
 ---
 
